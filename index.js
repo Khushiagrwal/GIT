@@ -8,3 +8,8 @@ function git()
 {
     console.log("I make git branch ")
 }
+
+function pull()
+{
+    console.log("pull request make")
+}
